@@ -1,0 +1,4 @@
+Metric,Before Cleaning,After Cleaning
+Row Count,1612,1600
+Missing Values,107,84
+Exact Duplicate Rows,12,0
