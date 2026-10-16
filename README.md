@@ -13,7 +13,7 @@ This project analyzes e-commerce sales data using Python and Pandas.
 ## Tools Used
 - Python
 - Pandas
-- Jupyter Notebook
+- Google Collab
 
 ## Project Status
 Project setup in progress.
